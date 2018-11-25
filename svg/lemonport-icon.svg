@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="172px" height="168px" viewBox="0 0 172 168" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.1 (25234) - http://www.bohemiancoding.com/sketch -->
+    <title>lemonport-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#7FD5FF" offset="0%"></stop>
+            <stop stop-color="#2F98F3" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-2" d="M39.1446694,3.4091629e-05 L131.439868,3.4091629e-05 C153.125997,3.4091629e-05 170.584529,17.0790218 170.584529,38.293718 L170.584529,128.582465 C170.584529,149.797235 153.125997,166.876074 131.439868,166.876074 L39.1446694,166.876074 C17.458519,166.876074 7.2024571e-06,149.797235 7.2024571e-06,128.582465 L7.2024571e-06,38.293718 C7.2024571e-06,17.0790218 17.458519,3.40916288e-05 39.1446694,3.40916288e-05 L39.1446694,3.4091629e-05 Z"></path>
+    </defs>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="colour" sketch:type="MSLayerGroup" transform="translate(0.959035, 0.947428)">
+            <g id="lemonport-icon">
+                <mask id="mask-3" sketch:name="Mask" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <g id="Mask">
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-2"></use>
+                    <use fill="none" xlink:href="#path-2"></use>
+                </g>
+                <g id="Group" mask="url(#mask-3)" font-size="150.947716" font-family="Speedlearn" sketch:type="MSTextLayer" font-weight="normal">
+                    <g transform="translate(34.401212, -87.053688)">
+                        <text id="L">
+                            <tspan x="0" y="207.737867" fill="#FFFFFF">L</tspan>
+                        </text>
+                        <text id="I">
+                            <tspan x="50.891049" y="334.563687" fill="#FFFFFF">I</tspan>
+                        </text>
+                        <text id="I">
+                            <tspan x="0" y="151" fill="#FFFFFF">I</tspan>
+                        </text>
+                        <text id="P">
+                            <tspan x="50.891049" y="233.603659" fill="#FFFFFF">P</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
